@@ -1,0 +1,17 @@
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\bin\Debug\net6.0-windows\PrimeiroAplicativo.exe
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\bin\Debug\net6.0-windows\PrimeiroAplicativo.deps.json
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\bin\Debug\net6.0-windows\PrimeiroAplicativo.runtimeconfig.json
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\bin\Debug\net6.0-windows\PrimeiroAplicativo.dll
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\bin\Debug\net6.0-windows\PrimeiroAplicativo.pdb
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.csproj.AssemblyReference.cache
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.Form1.resources
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.csproj.GenerateResource.cache
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.AssemblyInfoInputs.cache
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.AssemblyInfo.cs
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.csproj.CoreCompileInputs.cache
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.dll
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\refint\PrimeiroAplicativo.dll
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.pdb
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\PrimeiroAplicativo.genruntimeconfig.cache
+C:\Users\Joceyr\source\repos\PrimeiroAplicativo\PrimeiroAplicativo\obj\Debug\net6.0-windows\ref\PrimeiroAplicativo.dll
